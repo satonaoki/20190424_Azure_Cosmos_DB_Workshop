@@ -1,6 +1,7 @@
 # Azure による高度分析セミナー (1日講座) - 実際のコードで学ぶ、大量データの分析パターン
 
 * [セミナー ページ](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x6484530abcd)
+* [セッション スライド](https://aka.ms/azadv201904)
 
 ## 集中講座 - Azure Cosmos DB
 
