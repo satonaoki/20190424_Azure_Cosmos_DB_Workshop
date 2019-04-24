@@ -1,3 +1,5 @@
+https://aka.ms/20190424
+
 # Azure による高度分析セミナー (1日講座) - 実際のコードで学ぶ、大量データの分析パターン (2019/04/24)
 
 * [セミナー ページ](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x6484530abcd)
