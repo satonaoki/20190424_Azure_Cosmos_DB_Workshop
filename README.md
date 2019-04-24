@@ -5,7 +5,7 @@
 
 ## 集中講座 - Azure Cosmos DB
 
-* [Microsoft Learn - Azure Cosmos DB の NoSQL データを扱う](https://docs.microsoft.com/ja-jp/learn/paths/work-with-nosql-data-in-azure-cosmos-db/)
+* [Microsoft Learn - Azure Cosmos DB の NoSQL データを扱う](https://docs.microsoft.com/learn/paths/work-with-nosql-data-in-azure-cosmos-db/)
 * [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)
 * [スライド](https://cosmosdb.github.io/labs/decks/L400-WorkshopApril2019.pptx)
 * [Azure Cosmos DB ドキュメント](https://docs.microsoft.com/azure/cosmos-db/introduction)
